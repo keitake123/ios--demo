@@ -1,3 +1,4 @@
 # ios--demo
 
-some desciption
+some desciption of youtube
+Keiichi Taketsuna
